@@ -15,8 +15,6 @@ export default function Header() {
               <Image src="/logo_transparent.png" alt="Logo" width={96} height={96} />
             </Link>
           </div>
-
-          <MobileMenu />
         </div>
       </div>
     </header>
