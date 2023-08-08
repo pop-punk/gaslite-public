@@ -58,7 +58,7 @@ export default function Hero() {
                   href="https://app.deform.cc/form/da7398cb-efe0-43c5-b305-306b8e39facb/"
                   target="_blank"
                 >
-                  Contact Us
+                  Book An Audit
                 </a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600"></div>
