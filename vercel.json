@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "target": "https://scatter.art/gatekeep",
+      "permanent": true
+    }
+  ]
+}

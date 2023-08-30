@@ -1,2 +1,0 @@
-# Gaslite
-www.gaslite.gg
